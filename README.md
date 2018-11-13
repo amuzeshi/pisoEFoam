@@ -4,7 +4,7 @@ There was a lack of electrohydrodynamics in OpenFOAM until ["rheotool"](https://
 1. It doesn't cover turbulence
 2. It doesn't include PISO algorithm.
 
-pisoEFoam is an answer to this need. It is the extended version of rheoEFoam which uses PISO as the solution algorithm and covers turbulent flows. 
+pisoEFoam is an answer to this need. It just solves modified Navier-Stokes equations which include electrical body force (like [rheoEFoam](https://github.com/fppimenta/rheoTool/tree/master/of60/src/solvers/rheoEFoam)). This solver uses PISO as the solution algorithm and covers turbulent flows. 
 
 ### Prerequisites
 
