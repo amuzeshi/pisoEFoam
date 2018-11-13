@@ -1,0 +1,1 @@
+../slipSmoluchowski/slipSmoluchowskiFvPatchVectorField.H

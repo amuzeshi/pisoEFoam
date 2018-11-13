@@ -1,0 +1,11 @@
+SOURCE = \
+EDFModel/EDFModel.C \
+models/EDFEquations/EDFEquation.C \
+models/EDFEquations/newEDFEquation.C \
+models/DebyeHuckel/DebyeHuckel.C \
+models/PoissonBoltzmann/PoissonBoltzmann.C \
+models/NernstPlanck/NernstPlanck.C \
+models/NernstPlanck_steady/NernstPlanck_steady.C \
+models/slipSmoluchowski/slipSmoluchowski.C \
+models/noModel/noModel.C \
+models/Ohmic/Ohmic.C 
