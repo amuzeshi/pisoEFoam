@@ -15,7 +15,7 @@ To compile the solver, "You NEED to have OpenFOAM 4 installed".
  Then follow these steps:
 1. After you un-zip the folder, go to the folder : 
 ```
-pisoEFoam/solvers/pisoEFoam
+pisoEFoam-master/solvers/pisoEFoam
 ```
 2. Open a terminal and type this: 
 ```
